@@ -1,3 +1,1 @@
-# React + Vite
-
-Solutions of part 1 exercises to this folder, one app per folder.
+Solutions of part 0 exercises to this folder.
